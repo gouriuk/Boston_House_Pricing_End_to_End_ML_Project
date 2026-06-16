@@ -1,4 +1,4 @@
-# Boston_House_Pricing_End_to_End_ML_Project
+# Boston_House_Pricing_ML_Project
 ## Software and Tools Requirements:
 1. [Github account](https://github.com)
 2. [Heroku Account](https://heroku.com)

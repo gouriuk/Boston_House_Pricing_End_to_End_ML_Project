@@ -177,5 +177,3 @@ pickled_model=pickle.load(open(r'G:\revision_ml\ML\regression_model.pkl','rb'))
 
 #Prediction:
 pickled_model.predict(sc.transform(boston.data[0].reshape(1,-1)))
-
-#Converting the project as end to end project:
